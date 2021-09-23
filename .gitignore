@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+target/
+coding-challenge.iml
+.DS_Store
+.idea/
+
 # Log file
 *.log
 
